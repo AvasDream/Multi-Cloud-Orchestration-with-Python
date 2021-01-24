@@ -29,6 +29,7 @@ worker_size: s-1vcpu-1gb
 region: fra1
 image_id: '13371338'
 ```
+Safe the files to `config/aws.yaml` and `config/digitalocean.yaml`
 
 - Build and run the docker container
 
