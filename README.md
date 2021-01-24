@@ -30,8 +30,12 @@ region: fra1
 image_id: '13371338'
 ```
 
+- Build and run the docker container
+
 ```
 docker build . -t automation 
 
 docker run -it --rm -v "$(pwd):/code" automation bash
+
+python main.py
 ```
