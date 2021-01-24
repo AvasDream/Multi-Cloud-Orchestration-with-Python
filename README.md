@@ -1,6 +1,6 @@
 ## Multicloud Automation with python
 
-This is the repository for the code to this Blog post.
+This is the repository for the code to this [blog post](https://avasdream.engineer/python-multi-cloud-automation).
 
 
 ### Installation 
